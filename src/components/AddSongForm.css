@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+    background-color: #f9d4d8;
+}
+.form-container {
+    background: transparent;
+    border-radius: 15px;
+    padding: 45px;
+    align-items: center;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+  }
+  h2 {
+    color: white;
+    text-align: center;
+  }
+  .form-container input[type="text"] {
+    border: none;
+    align-items: center;
+    border-radius: 10px;
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+    outline: none;
+    font-size: 14px;
+  }
+  
+  .form-container button {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .form-container button:hover {
+    box-shadow: 0 0 10px rgba(162, 76, 175, 0.8), 
+    0 0 20px rgba(144, 76, 175, 0.6), 
+    0 0 30px rgba(130, 76, 175, 0.4);
+    transform: scale(1.05);
+  }
+  h3 {
+    color: white;
+    text-align: center;
+  }
+
+  .songslist {
+    background: transparent;
+    list-style-type: none;
+    border-radius: 15px;
+    padding: 45px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+  }
+  .editbtn {
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white; 
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 100px; 
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  .editbtn:hover {
+    box-shadow: 0 0 10px rgba(130, 76, 175, 0.8), 
+    0 0 20px rgba(144, 76, 175, 0.6), 
+    0 0 30px rgba(130, 76, 175, 0.4);
+    transform: scale(1.05);
+  }
+  .deletebtn {
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white; 
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  .deletebtn:hover {
+    box-shadow: 0 0 10px rgba(130, 76, 175, 0.8), 
+    0 0 20px rgba(144, 76, 175, 0.6), 
+    0 0 30px rgba(130, 76, 175, 0.4);
+    transform: scale(1.05);
+  }

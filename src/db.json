@@ -1,0 +1,46 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Heavy On My Heart",
+      "artist": "LUCKI",
+      "album": "Gemini",
+      "audio": "/songs/Heavy-On-My-Heart.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Go Gina (Stripped version)",
+      "artist": "SZA",
+      "album": "CTRL",
+      "audio": "/songs/Go-Gina(Stripped Version).mp3"
+    },
+    {
+      "id": 3,
+      "title": "LUV ME",
+      "artist": "OG Spliff ft. TiaCorine",
+      "album": "PRE ROLL",
+      "audio": "/songs/LUV-ME.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Bank",
+      "artist": "Playboi Carti",
+      "album": "Unreleased",
+      "audio": "/songs/Bank.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Gotta Love me",
+      "artist": "Kendrick Lamar",
+      "album": "Unreleased",
+      "audio": "/songs/Gotta-love-me.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Pain 1993",
+      "artist": "Drake ft. Playboi Carti",
+      "album": "Dark Lane Demo Tapes",
+      "audio": "/songs/Pain-1993.mp3"
+    }
+  ]
+}
